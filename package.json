@@ -5,6 +5,6 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "uWebSockets.js": "^20.39.0"
+    "uWebSockets.js": "uNetworking/uWebSockets.js#v20.39.0"
   }
 }
