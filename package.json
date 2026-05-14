@@ -1,0 +1,10 @@
+{
+  "name": "pw-chat-server",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "uWebSockets.js": "^20.39.0"
+  }
+}
